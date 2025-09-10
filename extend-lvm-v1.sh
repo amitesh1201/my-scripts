@@ -252,5 +252,3 @@ echo "The Logical Volume '$TARGET_LV_PATH' and its filesystem have been expanded
 echo "Current disk usage:"
 df -hT "$MOUNT_POINT"
 echo "Please verify everything is as expected."
-
-```
